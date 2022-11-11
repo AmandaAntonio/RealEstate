@@ -154,7 +154,7 @@ d.	o crescimento do preço dos imóveis YOY (year over year) é de 10%.
 e.	imóveis com 3 banheiros tem um crescimento de MoM (month over month) de 15%
 - A hipótese é falsa.
 
-4.0	– Resultado de negócio
+# 4.0	– Resultado de negócio
 
 Investimento necessário 
 	-$ 4.093.073.058
