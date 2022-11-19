@@ -7,7 +7,7 @@ A Key Real Estate é uma plataforma de vendas de imóveis. Seu modelo de negóci
 Atualmente a equipe da empresa está tendo dificuldades na tomada de decisão para encontrar bons negócios de compra e venda. O portfólio é muito grande e consome muito para realizações de análises manuais.
 O CEO resolveu contratar um analista de dados para auxilia-los a encontrar bons negócios para a empresa.
 
-##Problema de Negócio
+### Problema de Negócio
 Quais imóveis que a empresa deveria comprar e por qual preço?
 Uma vez o imóvel comprado, qual o melhor momento para vende-lo e por qual preço?
 
